@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Thanh Tran page
 This is Thanh Tran GitHub page
 
 ## My BIO
