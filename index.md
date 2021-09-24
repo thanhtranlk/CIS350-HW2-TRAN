@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 This is Thanh Tran GitHub page
 
-
-
+## My BIO
+[bio](README.md)
 
 ### Support or Contact
 
