@@ -1,6 +1,5 @@
 # CIS350-HW2-TRAN
 Thanh C. Tran
-Interesting in :
  - I'm interested in art such as painting landscape or personal portrait.
  - I like to team up with friend to make small apps or basic games for mobile
  - I like to travel to many places where I have never been there before
