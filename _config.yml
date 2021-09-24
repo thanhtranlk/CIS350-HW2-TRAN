@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Welcome to Thanh Tran's hompage
+description: This page is used to keep an eye on project updates
 plugins:
   - jekyll-relative-links
 relative_links:
