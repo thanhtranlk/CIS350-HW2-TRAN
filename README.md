@@ -1,5 +1,5 @@
 ## CIS350-HW2-TRAN
-
+This is a part of HW2
 ## Thanh C. Tran
 ## Personal Interests
 * I'm interested in art such as painting landscape or personal portrait.
