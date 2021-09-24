@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 This is Thanh Tran Github page
+[My bio]{README.md]
 
 ### Support or Contact
 
